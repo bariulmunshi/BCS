@@ -27,7 +27,7 @@
    - [Video: কম্পিউটার (Computer Peripherals): কি-বোর্ড (Keyboard), মাউস (Mouse), ওসিআর (OCR) ইত্যাদি](https://www.youtube.com/watch?v=q5w7mteEgxs&t=18s)
 
    - [Slide: কম্পিউটার (Computer Peripherals): কি-বোর্ড (Keyboard), মাউস (Mouse), ওসিআর (OCR) ইত্যাদি](https://www.canva.com/design/DAGtlnugdfk/JXW6l0A-S6Pva8lJHdS80Q/edit?utm_content=DAGtlnugdfk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-   - [Video: কম্পিউটার অঙ্গসংঠন (Computer Architecture): সিপিইউ (CPU), হার্ডডিস্ক (Hard Disk, এএলইউ (ALU) ইত্যাদি]([https://www.youtube.com/watch?v=q5w7mteEgxs&t=18s](https://www.youtube.com/watch?v=ziukBYBZrcw))
+   - [Video: কম্পিউটার অঙ্গসংঠন (Computer Architecture): সিপিইউ (CPU), হার্ডডিস্ক (Hard Disk, এএলইউ (ALU) ইত্যাদি](https://www.youtube.com/watch?v=q5w7mteEgxs&t=18s](https://www.youtube.com/watch?v=ziukBYBZrcw))
 # Project-Guide
 - Phase-1 HTML-CSS-Responsive-site
    - [project-1](https://github.com/bariulmunshi/MERN-Project-1)
