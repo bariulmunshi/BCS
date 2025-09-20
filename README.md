@@ -21,7 +21,7 @@
 
 
 
-# কম্পিউটার ও তথ্য প্রযুক্তি- 15 Marks
+# কম্পিউটার ও তথ্য প্রযুক্তি 
 - কম্পিউটার
    - [Video: কম্পিউটার (Computer Peripherals): কি-বোর্ড (Keyboard), মাউস (Mouse), ওসিআর (OCR) ইত্যাদি](https://www.youtube.com/watch?v=q5w7mteEgxs&t=18s)
 # Project-Guide
