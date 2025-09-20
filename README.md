@@ -11,6 +11,6 @@
    - Part-2: কম্পিউটার অঙ্গসংঠন (Computer Architecture): সিপিইউ (CPU), হার্ডডিস্ক (Hard Disk, এএলইউ (ALU) ইত্যাদি
      - [Slide](https://www.canva.com/design/DAGtlnugdfk/JXW6l0A-S6Pva8lJHdS80Q/edit?utm_content=DAGtlnugdfk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
      - [Video](https://youtu.be/ziukBYBZrcw?si=cYuBbE2NiU47IhHE)
-    - Part-3: কম্পিউটার পারঙ্গমতা (Computer Performance)
-     - [Slide](https://www.canva.com/design/DAGtlnugdfk/JXW6l0A-S6Pva8lJHdS80Q/edit?utm_content=DAGtlnugdfk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+   - Part-3: কম্পিউটার পারঙ্গমতা (Computer Performance)
+     - [Slide](https://www.canva.com/design/DAGtnEQyQsA/EfCgQo3SKzkLYz68dJ5SLg/edit?utm_content=DAGtnEQyQsA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
      - [Video](https://youtu.be/ps87C7X7z_0?si=t4lBx3v3DvmlyDKS)
