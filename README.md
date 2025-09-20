@@ -1,6 +1,7 @@
 # BCS
 ## Table of content
 - [কম্পিউটার ও তথ্য প্রযুক্তি(Marks-15)](#কম্পিউটার-ও-তথ্য-প্রযুক্তি)
+- [আন্তর্জাতিক বিষয়াবলী(Marks-20)](#আন্তর্জাতিক-বিষয়াবলী)
 
 # কম্পিউটার ও তথ্য প্রযুক্তি 
 - [Watch Full Course: YouTube-Playlist](https://www.youtube.com/playlist?list=PLxgggrEKTYF1zyX0BnZeb9GBj1KXQu_eo)
@@ -14,3 +15,5 @@
    - Part-3: কম্পিউটার পারঙ্গমতা (Computer Performance)
      - [Slide](https://www.canva.com/design/DAGtnEQyQsA/EfCgQo3SKzkLYz68dJ5SLg/edit?utm_content=DAGtnEQyQsA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
      - [Video](https://youtu.be/ps87C7X7z_0?si=t4lBx3v3DvmlyDKS)
+
+# আন্তর্জাতিক বিষয়াবলী
