@@ -15,5 +15,8 @@
    - Part-3: কম্পিউটার পারঙ্গমতা (Computer Performance)
      - [Slide](https://www.canva.com/design/DAGtnEQyQsA/EfCgQo3SKzkLYz68dJ5SLg/edit?utm_content=DAGtnEQyQsA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
      - [Video](https://youtu.be/ps87C7X7z_0?si=t4lBx3v3DvmlyDKS)
+   - Part-4: দৈনন্দিন জীবনে কম্পিউটার (Computer in Practical Fields): কৃষি, যোগাযোগ, শিক্ষা, স্বাস্থ্য, খেলাধুলা ইত্যাদি
+     - [Slide](https://www.canva.com/design/DAGwJfwuW4U/Uw3TU1EC0VhmXSMFQsyz1g/edit?utm_content=DAGwJfwuW4U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+     - [Video](https://youtu.be/SoGOS9ZvgTk?si=MQSWlXUTfs-Lk8vS)
 
 # আন্তর্জাতিক বিষয়াবলী
