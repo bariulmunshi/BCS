@@ -1,4 +1,5 @@
 # BCS
+- [কম্পিউটার ও তথ্য প্রযুক্তি](#কম্পিউটার-ও-তথ্য-প্রযুক্তি)
 #  Table of content
 - [Project-Guide](#project-guide)
 - [HTML-CSS-CSSframework-Guide](https://github.com/bariulmunshi/HTML-CSS-CSSframework/)
@@ -20,7 +21,9 @@
 
 
 
-
+# কম্পিউটার ও তথ্য প্রযুক্তি
+- কম্পিউটার
+   - [Video: কম্পিউটার (Computer Peripherals): কি-বোর্ড (Keyboard), মাউস (Mouse), ওসিআর (OCR) ইত্যাদি](https://www.youtube.com/watch?v=q5w7mteEgxs&t=18s)
 # Project-Guide
 - Phase-1 HTML-CSS-Responsive-site
    - [project-1](https://github.com/bariulmunshi/MERN-Project-1)
