@@ -28,8 +28,8 @@
      - [Video](https://www.youtube.com/watch?v=q5w7mteEgxs&t=18s) 
           
    - [Part-2: কম্পিউটার অঙ্গসংঠন (Computer Architecture): সিপিইউ (CPU), হার্ডডিস্ক (Hard Disk, এএলইউ (ALU) ইত্যাদি]
-     - [Slide-1](https://www.canva.com/design/DAGtlnugdfk/JXW6l0A-S6Pva8lJHdS80Q/edit?utm_content=DAGtlnugdfk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-     - [Video: ](https://www.youtube.com/watch?v=q5w7mteEgxs&t=18s](https://www.youtube.com/watch?v=ziukBYBZrcw))
+     - [Slide](https://www.canva.com/design/DAGtlnugdfk/JXW6l0A-S6Pva8lJHdS80Q/edit?utm_content=DAGtlnugdfk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+     - [Video: ]([https://www.youtube.com/watch?v=q5w7mteEgxs&t=18s](https://www.youtube.com/watch?v=ziukBYBZrcw)](https://www.youtube.com/watch?v=ziukBYBZrcw&t=3s))
   
 # Project-Guide
 - Phase-1 HTML-CSS-Responsive-site
