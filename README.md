@@ -1,9 +1,26 @@
 # BCS
 ## Table of content
-- [কম্পিউটার ও তথ্য প্রযুক্তি(Marks-15)](#কম্পিউটার-ও-তথ্য-প্রযুক্তি)
+- [বাংলা ভাষা ও সাহিত্য (Marks-35)](#বাংলা-ভাষা-ও-সাহিত্য)
+- [English Language and Literature (Marks-35)](#English-Language-and-Literature)
+- [বাংলাদেশ বিষয়াবলী﻿ (Marks-30)](#বাংলাদেশ-বিষয়াবলী﻿)
 - [আন্তর্জাতিক বিষয়াবলী(Marks-20)](#আন্তর্জাতিক-বিষয়াবলী)
+- [ভূগোল (বাংলাদেশ ও বিশ্ব),পরিবেশ ও দুর্যোগ ব্যবস্থাপনা (Marks-10)](#ভূগোল-বাংলাদেশ-ও-বিশ্ব,-পরিবেশ-ও-দুর্যোগ-ব্যবস্থাপনা)
+- [কম্পিউটার ও তথ্য প্রযুক্তি(Marks-15)](#কম্পিউটার-ও-তথ্য-প্রযুক্তি) 
+- [সাধারণ বিজ্ঞান (Marks-15)](#সাধারণ-বিজ্ঞান) 
+- [গণিতিক যুক্তি (Marks-15)](#গণিতিক-যুক্তি) 
+- [মানসিক দক্ষতা (Marks-15)](#মানসিক-দক্ষতা)
+- [নৈতিকতা, মূল্যবোধ ও সু-শাসন (Marks-10)](#নৈতিকতা,-মূল্যবোধ-ও-সু-শাসন)
 
-# কম্পিউটার ও তথ্য প্রযুক্তি 
+
+# বাংলা ভাষা ও সাহিত্য
+# English Language and Literature
+# বাংলাদেশ বিষয়াবলী﻿
+# আন্তর্জাতিক বিষয়াবলী
+# ভূগোল বাংলাদেশ ও বিশ্ব,পরিবেশ ও দুর্যোগ ব্যবস্থাপনা
+# সাধারণ বিজ্ঞান
+
+# কম্পিউটার ও তথ্য প্রযুক্তি
+- Book
 - [Watch Full Course: YouTube-Playlist](https://www.youtube.com/playlist?list=PLxgggrEKTYF1zyX0BnZeb9GBj1KXQu_eo)
 - কম্পিউটার
    - Part-1: কম্পিউটার (Computer Peripherals): কি-বোর্ড (Keyboard), মাউস (Mouse), ওসিআর (OCR) ইত্যাদি
@@ -19,4 +36,9 @@
      - [Slide](https://www.canva.com/design/DAGwJfwuW4U/Uw3TU1EC0VhmXSMFQsyz1g/edit?utm_content=DAGwJfwuW4U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
      - [Video](https://youtu.be/SoGOS9ZvgTk?si=MQSWlXUTfs-Lk8vS)
 
-# আন্তর্জাতিক বিষয়াবলী
+# গণিতিক যুক্তি
+# মানসিক দক্ষতা
+# নৈতিকতা, মূল্যবোধ ও সু-শাসন
+
+
+
