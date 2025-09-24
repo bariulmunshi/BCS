@@ -4,7 +4,7 @@
 - [English Language and Literature (Marks-35)](#English-Language-and-Literature)
 - [Bangladesh Affairs (Marks-30)](#Bangladesh-Affairs)
 - [আন্তর্জাতিক বিষয়াবলী(Marks-20)](#আন্তর্জাতিক-বিষয়াবলী)
-- [ভূগোল (বাংলাদেশ ও বিশ্ব),পরিবেশ ও দুর্যোগ ব্যবস্থাপনা (Marks-10)](#ভূগোল-বাংলাদেশ-ও-বিশ্ব,-পরিবেশ-ও-দুর্যোগ-ব্যবস্থাপনা)
+- [ভূগোল (বাংলাদেশ ও বিশ্ব),পরিবেশ ও দুর্যোগ ব্যবস্থাপনা (Marks-10)](#Geography-Environment-and-Disaster-Management)
 - [কম্পিউটার ও তথ্য প্রযুক্তি(Marks-15)](#কম্পিউটার-ও-তথ্য-প্রযুক্তি) 
 - [সাধারণ বিজ্ঞান (Marks-15)](#সাধারণ-বিজ্ঞান) 
 - [গণিতিক যুক্তি (Marks-15)](#গণিতিক-যুক্তি) 
@@ -16,7 +16,7 @@
 # English Language and Literature
 # Bangladesh Affairs
 # আন্তর্জাতিক বিষয়াবলী
-# ভূগোল বাংলাদেশ ও বিশ্ব,পরিবেশ ও দুর্যোগ ব্যবস্থাপনা
+# Geography Environment and Disaster Management
 # সাধারণ বিজ্ঞান
 
 # কম্পিউটার ও তথ্য প্রযুক্তি
