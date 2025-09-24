@@ -20,7 +20,7 @@
 # সাধারণ বিজ্ঞান
 
 # কম্পিউটার ও তথ্য প্রযুক্তি
-- Book
+- [Book](https://docs.google.com/document/d/1Uu8M3k6gH7bf2pGBoT1lm2zsCSSz2AmIiqod3tLNBj4/edit?usp=sharing)
 - [Watch Full Course: YouTube-Playlist](https://www.youtube.com/playlist?list=PLxgggrEKTYF1zyX0BnZeb9GBj1KXQu_eo)
 - কম্পিউটার
    - Part-1: কম্পিউটার (Computer Peripherals): কি-বোর্ড (Keyboard), মাউস (Mouse), ওসিআর (OCR) ইত্যাদি
